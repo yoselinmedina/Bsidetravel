@@ -48,3 +48,8 @@ Este mismo blog está versionado con Git como evidencia del proceso de documenta
 Durante este proceso, el feedback más honesto fue el que me di a mí misma en el post-mortem: reconocer que la verificación del estado de la cuenta debió hacerse *antes*, como parte del checklist, y no reaccionar solo cuando ya era urgente. Ser directa conmigo misma sobre ese vacío en el proceso fue lo que permitió convertirlo en una mejora concreta en vez de solo un contratiempo que se olvida.
 
 También fue clave comunicar con el cliente de forma clara y directa sobre el atraso, en vez de suavizar demasiado la situación.
+
+**Checklist de entrega:**
+- [x] URL pública del blog/entrada: https://yoselinmedina.github.io/Bsidetravel/2026/07/14/restriccion-meta-bside-travel.html
+- [x] Enlace al repositorio o snapshot de commits: https://github.com/yoselinmedina/Bsidetravel/commits/main
+- [x] Reflexión sobre feedback aplicado: incluida arriba ✅

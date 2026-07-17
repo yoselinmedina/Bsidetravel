@@ -40,8 +40,8 @@ El desafío no era solo técnico (entender *por qué* Meta había aplicado la re
 Este mismo blog está versionado con Git como evidencia del proceso de documentación:
 
 - Repositorio: https://github.com/yoselinmedina/Bsidetravel
-- Commit de creación de la entrada: [PEGAR AQUÍ EL ENLACE DE ESTE COMMIT]
-- Commit con ajustes y correcciones a la entrada: [PEGAR AQUÍ CUANDO HAGAS EL SIGUIENTE COMMIT]
+- Commit de creación de la entrada: https://github.com/yoselinmedina/Bsidetravel/commit/9095bd3ee68054abac73ecffc16795dc0d58101e
+- Commit con ajustes y correcciones a la entrada: https://github.com/yoselinmedina/Bsidetravel/commit/b6b7895
 
 ## Reflexión sobre feedback radicalmente sincero
 
